@@ -10,6 +10,7 @@ namespace app012_Strings_Mix
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("123");
         }
     }
 }

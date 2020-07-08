@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app011_Adding_Big_Numbers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app012_Strings_Mix", "app012_Strings_Mix\app012_Strings_Mix.csproj", "{3AC949D6-B88E-4607-A838-3389DD4AEF44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app013_vowel_count", "app013_vowel_count\app013_vowel_count.csproj", "{14BAFB9A-0C60-4B99-8F3A-CF0F89BCC7A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{3AC949D6-B88E-4607-A838-3389DD4AEF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC949D6-B88E-4607-A838-3389DD4AEF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC949D6-B88E-4607-A838-3389DD4AEF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BAFB9A-0C60-4B99-8F3A-CF0F89BCC7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BAFB9A-0C60-4B99-8F3A-CF0F89BCC7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BAFB9A-0C60-4B99-8F3A-CF0F89BCC7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BAFB9A-0C60-4B99-8F3A-CF0F89BCC7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
